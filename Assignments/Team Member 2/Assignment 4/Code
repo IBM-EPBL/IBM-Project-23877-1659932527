@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 #include <ArduinoJson.h>
 WiFiClient wifiClient;
-#define ORG "nafgr4"
-#define DEVICE_TYPE "RaspberryPi"
+#define ORG "w662fh"
+#define DEVICE_TYPE "NodeMCU"
 #define DEVICE_ID "12345"
 #define TOKEN "12345678"
 #define speed 0.034
